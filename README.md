@@ -1,9 +1,9 @@
 # Random-User-API-Performance-Test-Using-JMeter
 
 ## Here I tried to find the actual TPS for a site with a given number of users and time frame. Then I tried to find out the bottleneck/stress test point. (At which point the system starts to show 1% error).
-   Site Tested: https://random-data-api.com/api/v2/users
-   Number of User: 120000
-   Timeframe: 12 Hours
+   - Site Tested: https://random-data-api.com/api/v2/users
+   - Number of User: 120000
+   - Timeframe: 12 Hours
 
 ## Tools / Technology Used
   - JMeter
