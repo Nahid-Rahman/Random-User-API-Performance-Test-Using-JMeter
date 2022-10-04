@@ -27,6 +27,9 @@
 ## Bottleneck Calculation
   Link to Excel: https://docs.google.com/spreadsheets/d/1avNDcD3mrQwyRyzkYMyFzf4syFWdhXFX/edit?usp=sharing&ouid=105382160112398553095&rtpof=true&sd=true
   
+## Necessary Formulas
+   - Throughput = Number of users / seconds
+  
 ## TPS Output 
   - First break down the process
   -  ![image](https://user-images.githubusercontent.com/52327199/193750352-72122d5d-00f0-41de-8880-f94d5a51f324.png)
